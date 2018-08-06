@@ -9,7 +9,7 @@ module.exports = {
   },
 
   down: (queryInterface, Sequelize) => {
-  return que,
+  return quequeryInterface.removeColumn('Contacts', 'email');
 
   describe("#iterativeSearch()", () => {
 
